@@ -2,4 +2,5 @@
 <resources>
     <string name="my_first_git_project">My First Git Project!</string>
     <string name="hello_world">Hello world!</string>
+    <string name="never_give_up">Never give Up!!!</string>
 </resources>
